@@ -12,7 +12,7 @@ const App = () => {
 			<BrowserRouter>
 				<Routes>
 					<Route path="/" element={<Home />} />
-					<Route path="/authentication" element={<Authentication />} />
+					<Route path="authentication" element={<Authentication />} />
 				</Routes>
 			</BrowserRouter>
 		</Grommet>
