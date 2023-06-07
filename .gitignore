@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+todo.txt
+tsconfig.json
+vite.config.ts
+
+
