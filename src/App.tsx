@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Authentication from "./authentication";
-import Home from "./home";
+import Authentication from "./components/authentication";
+import Home from "./components/home";
 import { Grommet } from "grommet";
 import "./style/globals.scss";
 
